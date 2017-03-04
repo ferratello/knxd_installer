@@ -11,3 +11,5 @@ wget  https://raw.githubusercontent.com/ferratello/knxd_installer/master/knxd_in
 sudo ./knxd_install.sh
 ....
 
+
+The most difficult part is to configure it :-) but read `/etc/default/knxd` to get examples and see official documentation.
