@@ -4,6 +4,7 @@ Simple bash script to compile and install https://github.com/knxd/knxd[knxd] on 
 
 # How to run it:
 ....
-wget  https://raw.githubusercontent.com/ferratello/knxd_installer/master/knxd_install.sh && sudo ./knxd_install.sh
+wget  https://raw.githubusercontent.com/ferratello/knxd_installer/master/knxd_install.sh
+sudo ./knxd_install.sh
 ....
 
