@@ -2,5 +2,8 @@
 
 Simple bash script to compile and install https://github.com/knxd/knxd[knxd] on Raspberry Pi 3 Model B with https://www.raspberrypi.org/downloads/raspbian/[raspbian] / http://docs.openhab.org/installation/openhabian.html[openhabian]
 
-
+# How to run it:
+....
+wget  https://raw.githubusercontent.com/ferratello/knxd_installer/master/knxd_install.sh && sudo ./knxd_install.sh
+....
 
