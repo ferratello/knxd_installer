@@ -1,4 +1,5 @@
 #!/bin/bash
+# raspbian didn't include dh-systemd
 sudo apt-get install git-core build-essential dh-systemd
 git clone https://github.com/knxd/knxd.git
 
